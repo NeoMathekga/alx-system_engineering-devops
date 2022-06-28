@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Write a script that prints the absolute path name of the current working directory.
+The scripts are about the use of shell, init files, variables and expansions for ALX-Holberton projects
